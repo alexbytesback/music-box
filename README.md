@@ -146,4 +146,4 @@ $addbot
 
 ## Acknowledgments
 
-https://github.com/ambiver-learner
+https://github.com/ambivert-learner
