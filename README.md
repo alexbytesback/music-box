@@ -1,4 +1,3 @@
-# This bot belongs to Alex. Reproduction of this bot is strictly prohibited.
 # Music Box
 A Discord music bot written in Python with support for Youtube and Spotify.
 
@@ -142,8 +141,3 @@ $addbot
 
 * Displays information on how to add the bot to another server of yours.
 
-
-
-## Acknowledgments
-
-https://github.com/ambivert-learner
